@@ -1,8 +1,8 @@
 # rptp
 
->Environment
->- Ubuntu 14.04LTS
->- g++ 4.8.4
+### 开发环境
+- Ubuntu 14.04LTS
+- g++ 4.8.4
 
 ------
 ### 编程模式
